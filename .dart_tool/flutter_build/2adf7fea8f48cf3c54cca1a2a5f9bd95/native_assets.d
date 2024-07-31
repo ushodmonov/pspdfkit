@@ -1,0 +1,1 @@
+ /Users/uchqunshodmonov/project/test_pspdfkit/.dart_tool/flutter_build/2adf7fea8f48cf3c54cca1a2a5f9bd95/native_assets.yaml: 

@@ -1,0 +1,47 @@
+PODS:
+  - Flutter (1.0.0)
+  - Instant (13.8.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - PSPDFKit (13.8.0):
+    - PSPDFKit/Core (= 13.8.0)
+  - PSPDFKit/Core (13.8.0)
+  - pspdfkit_flutter (3.12.0):
+    - Flutter
+    - Instant (= 13.8.0)
+    - PSPDFKit (= 13.8.0)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - pspdfkit_flutter (from `.symlinks/plugins/pspdfkit_flutter/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Instant
+    - PSPDFKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  pspdfkit_flutter:
+    :path: ".symlinks/plugins/pspdfkit_flutter/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  Instant: 1d8d670e94984f671412999c0a5b41e597654148
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  PSPDFKit: 1722fafcd31a209431e1cc3f1bfe070571f2bec8
+  pspdfkit_flutter: 20088305f2441988102c39a597d3acbc928e7f61
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+
+PODFILE CHECKSUM: d8ff65969a6c18069d80b19b0b88107fe5a7a3b4
+
+COCOAPODS: 1.15.2
